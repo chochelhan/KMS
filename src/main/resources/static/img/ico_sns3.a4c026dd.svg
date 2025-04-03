@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="30" height="30" viewBox="0 0 30 30">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #2bbf13;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="ico_sns3" transform="translate(-197.31 -20.89)">
+    <path id="패스_36" data-name="패스 36" class="cls-1" d="M212.31,50.89a15,15,0,1,0-15-15,15,15,0,0,0,15,15"/>
+    <path id="패스_37" data-name="패스 37" class="cls-2" d="M223.287,38.544v7.469l-4.459-7.6-4.126.016V50.905h3.949V43.647l4.376,7.229,4.261-.007-.052-12.326Z" transform="translate(-8.685 -8.771)"/>
+  </g>
+</svg>

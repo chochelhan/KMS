@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16.534" height="15.966" viewBox="0 0 16.534 15.966">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #999;
+      }
+
+      .cls-2 {
+        fill: #999;
+      }
+    </style>
+  </defs>
+  <g id="img_rp" transform="translate(0.5)">
+    <path id="패스_24" data-name="패스 24" class="cls-1" d="M2487.966,2807.034v12h10.613" transform="translate(-2487.966 -2807.034)"/>
+    <path id="다각형_2" data-name="다각형 2" class="cls-2" d="M4,0,8,8H0Z" transform="translate(16.034 7.966) rotate(90)"/>
+  </g>
+</svg>

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkkms"]=self["webpackChunkkms"]||[]).push([[2147],{52147:function(e,t,n){n.r(t),n.d(t,{default:function(){return l}});var u=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("router-view")},r=[],c={data:function(){return{}},created:function(){},methods:{}},s=c,f=n(1001),a=(0,f.Z)(s,u,r,!1,null,"2f14b1be",null),l=a.exports}}]);
+//# sourceMappingURL=2147-legacy.b169abf7.js.map
